@@ -99,4 +99,4 @@ If you encounter any issues or have suggestions for improvements, please open an
 
 ---
 
-Made with ❤️ by [Rudra]
+Made with ❤️ by Rudra
